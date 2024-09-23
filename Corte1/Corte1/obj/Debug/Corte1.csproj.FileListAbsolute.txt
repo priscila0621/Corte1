@@ -1,0 +1,10 @@
+C:\Users\DELL E7250\Documents\ICorte\Corte1\Corte1\bin\Debug\Corte1.exe.config
+C:\Users\DELL E7250\Documents\ICorte\Corte1\Corte1\bin\Debug\Corte1.exe
+C:\Users\DELL E7250\Documents\ICorte\Corte1\Corte1\bin\Debug\Corte1.pdb
+C:\Users\DELL E7250\Documents\ICorte\Corte1\Corte1\obj\Debug\Corte1.csproj.AssemblyReference.cache
+C:\Users\DELL E7250\Documents\ICorte\Corte1\Corte1\obj\Debug\Corte1.Form1.resources
+C:\Users\DELL E7250\Documents\ICorte\Corte1\Corte1\obj\Debug\Corte1.Properties.Resources.resources
+C:\Users\DELL E7250\Documents\ICorte\Corte1\Corte1\obj\Debug\Corte1.csproj.GenerateResource.cache
+C:\Users\DELL E7250\Documents\ICorte\Corte1\Corte1\obj\Debug\Corte1.csproj.CoreCompileInputs.cache
+C:\Users\DELL E7250\Documents\ICorte\Corte1\Corte1\obj\Debug\Corte1.exe
+C:\Users\DELL E7250\Documents\ICorte\Corte1\Corte1\obj\Debug\Corte1.pdb
